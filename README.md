@@ -1,4 +1,4 @@
-## Simple Todo List CRUD API with Express
+## TodoApp CRUD API with Express
 
 #### 1. Create PostgreSQL DB
 ```
